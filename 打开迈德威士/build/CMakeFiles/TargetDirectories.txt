@@ -1,0 +1,6 @@
+/home/ciao/桌面/CODE/考核与学习/打开迈德威士/build/CMakeFiles/rebuild_cache.dir
+/home/ciao/桌面/CODE/考核与学习/打开迈德威士/build/CMakeFiles/edit_cache.dir
+/home/ciao/桌面/CODE/考核与学习/打开迈德威士/build/CMakeFiles/MDWS.dir
+/home/ciao/桌面/CODE/考核与学习/打开迈德威士/build/my_libs/CMakeFiles/rebuild_cache.dir
+/home/ciao/桌面/CODE/考核与学习/打开迈德威士/build/my_libs/CMakeFiles/edit_cache.dir
+/home/ciao/桌面/CODE/考核与学习/打开迈德威士/build/my_libs/CMakeFiles/open_lib.dir

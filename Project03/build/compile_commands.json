@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ciao/桌面/CODE/Project03/build",
+  "command": "/usr/bin/c++   -I/home/ciao/桌面/CODE/Project03/include    -o CMakeFiles/SWAP_CMAKE.dir/src/main.cpp.o -c /home/ciao/桌面/CODE/Project03/src/main.cpp",
+  "file": "/home/ciao/桌面/CODE/Project03/src/main.cpp"
+}
+]

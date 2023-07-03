@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ciao/桌面/CODE/Project05/build",
+  "command": "/usr/bin/c++   -I/home/ciao/桌面/CODE/Project05/include -isystem /usr/local/include/opencv4    -o CMakeFiles/AVI_FILE.dir/src/main.cpp.o -c /home/ciao/桌面/CODE/Project05/src/main.cpp",
+  "file": "/home/ciao/桌面/CODE/Project05/src/main.cpp"
+}
+]

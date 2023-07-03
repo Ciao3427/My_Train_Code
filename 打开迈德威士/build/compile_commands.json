@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ciao/桌面/CODE/考核与学习/打开迈德威士/build",
+  "command": "/usr/bin/c++  -DFMT_LOCALE -DFMT_SHARED -isystem /usr/local/include/opencv4    -o CMakeFiles/MDWS.dir/main.cpp.o -c /home/ciao/桌面/CODE/考核与学习/打开迈德威士/main.cpp",
+  "file": "/home/ciao/桌面/CODE/考核与学习/打开迈德威士/main.cpp"
+}
+]

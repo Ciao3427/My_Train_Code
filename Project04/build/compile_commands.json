@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ciao/桌面/CODE/Project04/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4    -o CMakeFiles/OPEN_CAMERA.dir/src/main.cpp.o -c /home/ciao/桌面/CODE/Project04/src/main.cpp",
+  "file": "/home/ciao/桌面/CODE/Project04/src/main.cpp"
+}
+]
