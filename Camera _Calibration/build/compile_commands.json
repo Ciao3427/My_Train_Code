@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/build",
+  "command": "/usr/bin/c++  -DFMT_LOCALE -DFMT_SHARED -isystem /usr/local/include/opencv4    -o CMakeFiles/TEST.dir/test.cpp.o -c \"/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/test.cpp\"",
+  "file": "/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/test.cpp"
+},
+{
+  "directory": "/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/build",
+  "command": "/usr/bin/c++  -DFMT_LOCALE -DFMT_SHARED -isystem /usr/local/include/opencv4    -o CMakeFiles/CAMERA_CALIBRATION.dir/main.cpp.o -c \"/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/main.cpp\"",
+  "file": "/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/main.cpp"
+},
+{
+  "directory": "/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/build/my_libs/camera",
+  "command": "/usr/bin/c++  -DFMT_LOCALE -DFMT_SHARED -Dcamera_lib_EXPORTS -isystem /usr/local/include/opencv4  -fPIC   -o CMakeFiles/camera_lib.dir/mv_camera.cpp.o -c \"/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/my_libs/camera/mv_camera.cpp\"",
+  "file": "/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/my_libs/camera/mv_camera.cpp"
+},
+{
+  "directory": "/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/build/my_libs/timer",
+  "command": "/usr/bin/c++  -DFMT_LOCALE -DFMT_SHARED -Dtimer_lib_EXPORTS  -fPIC   -o CMakeFiles/timer_lib.dir/timer.cpp.o -c \"/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/my_libs/timer/timer.cpp\"",
+  "file": "/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/my_libs/timer/timer.cpp"
+}
+]

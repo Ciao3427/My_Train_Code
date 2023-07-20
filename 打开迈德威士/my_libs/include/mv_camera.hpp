@@ -66,4 +66,5 @@ private:
 
 } // namespace Devices
 
+
 #endif /*_MV_CAMERA_HPP_*/

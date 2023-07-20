@@ -1,0 +1,4 @@
+Log file created at: 2023/07/17 20:03:43
+Running on machine: ciao-ASUS-TUF-Gaming-A17-FA707RW-FA707RW
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0717 20:03:43.053889 123119 MVCAMAPI.cpp:350] CameraInit Failed, err:-18,Version:2.1.0.37,FriendlyName:MV-SUA133GC#0,SN:042003320218

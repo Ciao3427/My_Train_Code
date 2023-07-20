@@ -60,7 +60,7 @@ int main()
     while (capture.read(frame))
     {
         Mat KNNMask;
-        std::vector<std::vector<Point>>contours;
+        std::vector<std::vector<Point>>contours; 
         pKNN->apply(frame, KNNMask);
         //(*pMOG2).apply(frame, mogMask);
         threshold(KNNMask, KNNMask, 100, 255, THRESH_BINARY); //二值化

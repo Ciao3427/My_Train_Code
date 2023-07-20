@@ -136,11 +136,10 @@ MVSDK_API CameraSdkStatus  CameraIsOpened(
 // 函数名   : CameraInit
 // 功能描述 : 相机初始化。初始化成功后，才能调用任何其他
 //        相机相关的操作接口。
-// 参数     : pCameraInfo    该相机的设备描述信息，由CameraEnumerateDevice
-//               函数获得。
-//            iParamLoadMode  相机初始化时使用的参数加载方式。-1表示使用上次退出时的参数加载方式。
-//            emTeam         初始化时使用的参数组。-1表示加载上次退出时的参数组。
-//            pCameraHandle  相机的句柄指针，初始化成功后，该指针
+// 参数     : pCameraInfo    该相机的设备描述信息，由CameraEnumerateDevice函数获得。
+//           iParamLoadMode  相机初始化时使用的参数加载方式。-1表示使用上次退出时的参数加载方式。那么0呢？
+//           emTeam         初始化时使用的参数组。-1表示加载上次退出时的参数组。
+//           pCameraHandle  相机的句柄指针，初始化成功后，该指针
 //               返回该相机的有效句柄，在调用其他相机
 //               相关的操作接口时，都需要传入该句柄，主要
 //               用于多相机之间的区分。

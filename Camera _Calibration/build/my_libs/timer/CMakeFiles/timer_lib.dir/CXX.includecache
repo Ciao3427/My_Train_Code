@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/my_libs/timer/timer.cpp
+./timer.hpp
+/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/my_libs/timer/timer.hpp
+fmt/color.h
+-
+fmt/core.h
+-
+
+/home/ciao/桌面/CODE/考核与学习/Camera _Calibration/my_libs/timer/timer.hpp
+fmt/core.h
+-
+chrono
+-
+string
+-
+vector
+-
+

@@ -19,5 +19,5 @@ target_link_libraries(
     open_lib
     ${OpenCV_LIBS}
     fmt::fmt
-    MVSDK
+    my_libs/include
 )

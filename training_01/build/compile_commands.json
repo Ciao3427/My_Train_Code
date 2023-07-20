@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ciao/桌面/MA/training_01/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4    -o CMakeFiles/SE.dir/main.cpp.o -c /home/ciao/桌面/MA/training_01/main.cpp",
+  "file": "/home/ciao/桌面/MA/training_01/main.cpp"
+}
+]

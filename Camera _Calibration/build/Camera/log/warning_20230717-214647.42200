@@ -1,0 +1,4 @@
+Log file created at: 2023/07/17 21:46:47
+Running on machine: ciao-ASUS-TUF-Gaming-A17-FA707RW-FA707RW
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0717 21:46:47.147231 42204 MVCameraBase.cpp:99] Device:(name:MV-SUA133GC#0 sn:042003320218)Lost
